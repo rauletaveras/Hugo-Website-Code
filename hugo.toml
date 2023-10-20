@@ -1,5 +1,5 @@
-baseURL = 'https://www.raultaveras.online/'
+baseURL = 'http://www.raultaveras.online/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Personal website of Raúl Ernesto Taveras Franco'
 
 theme='lugo'
