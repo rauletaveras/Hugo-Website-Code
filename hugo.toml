@@ -1,8 +1,7 @@
-baseURL = 'http://www.raultaveras.online/'
+baseURL = '//www.raultaveras.online'
 title = "Raúl E. Taveras's Website"
 description = "Raúl E. Taveras's Website"
 theme='hugo-PaperMod'
-author='Me'
 
 languageCode = 'en-uk'
 defaultContentLanguage = 'en-uk'
@@ -24,6 +23,7 @@ ShowShareButtons = 'true'
 ShowBreadCrumbs = 'true'
 ShowPostNavLinks = 'true'
 mainSections = ['articles', 'updates']
+assets.disableFingerprinting = true
 
 [[menu.main]]
 identifier = 'about'

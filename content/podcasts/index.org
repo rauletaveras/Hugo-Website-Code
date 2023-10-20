@@ -53,15 +53,15 @@ For reference, I currently use the Android app [[https://www.bing.com/ck/a?!&&p=
 - My Favorite Theorem
 
 ** Christian Sermons
-- John Piper's Sermons [[Desiring God]]
+- John Piper's Sermons (Desiring God)
 - Renewing Your Mind with R.C. Sproul
 - Renova2 - Made by my two dear and extremely talented friends Laura and Jason.
 - Exploring my Strange Bible
 
 ** Bible Study and Theology
-- [BibleProject Podcast](https://bibleproject.com/podcasts/the-bible-project-podcast/)
-- [OnScript](https://onscript.study/)
-- [Working for the Word](https://podcasts.apple.com/us/podcast/working-for-the-word-a-bible-translation-podcast/id1494281053)
+- [[https://bibleproject.com/podcasts/the-bible-project-podcast/][BibleProject Podcast]]
+- [[https://onscript.study/][OnScript]]
+- [[https://podcasts.apple.com/us/podcast/working-for-the-word-a-bible-translation-podcast/id1494281053][Working for the Word]]
 
 ** Fiction
 - Among the Stars and Bones
