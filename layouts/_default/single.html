@@ -1,4 +1,7 @@
 {{ define "title" -}}
-{{ .Title }}
-{{- partial "footer.html" . }}
+<header>{{ .Title | title }}</header>
+<!--- <article>
+{{ .Content -}}
+</article>
+{{- partial "footer.html" . }} -->
 {{- end }}
