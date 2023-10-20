@@ -1,7 +1,10 @@
-{{ define "title" -}}
-<header>{{ .Title | title }}</header>
-<!--- <article>
-{{ .Content -}}
+{{ define "main" -}}
+<article class="h-entry">
+    <h1 class="p-name">{{ .Title | title }}</h1>
+    <a class="p-author h-card" href="http:www.raultaveras.online/"></a>
+    <span class="small"><p>Published on <time class="dt-published">{{ .Date | time.Format "2006-01-02 Mon" }}</time></p></span>
+    <div class="e-content">
+	{{ .Content -}}
+</div>
 </article>
-{{- partial "footer.html" . }} -->
 {{- end }}

@@ -1,5 +1,10 @@
 baseURL = 'http://www.raultaveras.online/'
-languageCode = 'en-us'
+languageCode = 'en-uk'
+defaultContentLanguage = 'en-uk'
 title = 'Personal website of Raúl Ernesto Taveras Franco'
-
+copyright = '© Raúl Ernesto Taveras Franco'
 theme='lugo'
+
+[Author]
+name = "Raúl Ernesto Taveras Franco"
+email = "raul@raultaveras.online"
