@@ -1,10 +1,48 @@
 baseURL = 'http://www.raultaveras.online/'
+title = "Raúl E. Taveras's Website"
+description = "Raúl E. Taveras's Website"
+theme='hugo-PaperMod'
+author='Me'
+
 languageCode = 'en-uk'
 defaultContentLanguage = 'en-uk'
-title = 'Personal website of Raúl Ernesto Taveras Franco'
-copyright = '© Raúl Ernesto Taveras Franco'
-theme='lugo'
 
+enableRobotsTXT = 'true'
+
+copyright = '© Raúl Ernesto Taveras Franco'
 [Author]
 name = "Raúl Ernesto Taveras Franco"
+shortName = "Raúl E. Taveras F."
 email = "raul@raultaveras.online"
+
+[params]
+DateFormat = '2006-01-02 Mon'
+defaultTheme = 'dark'
+disableThemeToggle = 'true'
+UseHugoToc = 'true'
+ShowShareButtons = 'true'
+ShowBreadCrumbs = 'true'
+ShowPostNavLinks = 'true'
+mainSections = ['articles', 'updates']
+
+[[menu.main]]
+identifier = 'about'
+name = 'about'
+url = '/about/'
+weight = '10'
+
+[[menu.main]]
+identifier = 'tags'
+name = 'tags'
+url = '/tags/'
+weight = '20'
+
+[[menu.main]]
+identifier = 'recommendations'
+name = 'recommendations'
+url = '/recommendations/'
+weight = '30'
+
+[homeInfoParams]
+Title = "Hi there \U0001F44B"
+Content = "Welcome to my blog"

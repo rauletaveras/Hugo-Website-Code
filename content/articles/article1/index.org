@@ -1,6 +1,7 @@
 ---
-title: "About"
+title: "Article 1"
 date: 2023-10-20T00:46:04+01:00
 draft: false
 ---
-This website is about me, Raúl!
+
+This is a test article.
