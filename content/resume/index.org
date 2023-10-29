@@ -1,0 +1,32 @@
++++
+title = 'Resume'
+date = 2023-10-20T17:49:46+01:00
+draft = false
++++
+
+* Work Experience
+** Ministry of Foreign Affairs
+*** Analyst of Trade Integration
+/Nov 2020–Present (Full time)/
+
+*** Intern
+/Sep 2019–Nov 2020 (Full time)/
+
+
+** Academia Europea
+*** Language Teacher
+** Mathematics and Science Tutor
+** Freelance Translator
+** Alexian Services, S.R.L.
+*** Customer Service Representative and Compliance Reviewer
+* Education
+** University of Oxford
+*** MSt in Diplomatic Studies
+/Oct 2023–Feb 2025 (expected)/ | Oxford, United Kingdom
+** Santo Domingo Catholic University
+*** Bachelor's Degree in Diplomacy and International Services
+/Sep 2017–Jun 2022/ | Santo Domingo, D.N., Dominican Republic
+- Graduated /summa cum laude/, 3.86/4.00 GPA.
+- Undergraduate thesis: /Proposal for a Five-Year Strategy 2021-2026 for the political positioning of the Dominican Republic in the Central American Integration System (SICA)./ Cited multiple times in other undergraduate dissertations.
+- Participated at various times as candidate, organizer, and advisor for the Association of Students of Diplomacy and International Relations (AEDRI), the student body of the university’s School of Diplomacy and International Services.
+- Half-scholarship for high honors Christian students.

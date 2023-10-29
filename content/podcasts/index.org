@@ -36,7 +36,7 @@ For reference, I currently use the Android app [[https://www.bing.com/ck/a?!&&p=
 
 ** General Knowledge
 - Tell Me Something I Don't Know
-- Freakonomics: A podcast about economics and related things (hint: everything) by brilliant economist and communicator [[Stephen Dubner]]. This podcast is for everyone who wants to build a better society.
+- Freakonomics: A podcast about economics and related things (hint: everything) by brilliant economist and communicator Stephen Dubner. This podcast is for everyone who wants to build a better society.
 - Freakonomics MD: A spin-off of Freakonomics focusing on medical issues.
 - Every Little Thing
 - Stuff You Should Know

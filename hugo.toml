@@ -1,10 +1,10 @@
 baseURL = '//www.raultaveras.online'
 title = "Raúl E. Taveras's Website"
 description = "Raúl E. Taveras's Website"
-theme='hugo-PaperMod'
+theme='hugo-PaperModX'
 
-languageCode = 'en-uk'
-defaultContentLanguage = 'en-uk'
+languageCode = 'en'
+defaultContentLanguage = 'en'
 
 enableRobotsTXT = 'true'
 
@@ -16,8 +16,7 @@ email = "raul@raultaveras.online"
 
 [params]
 DateFormat = '2006-01-02 Mon'
-defaultTheme = 'dark'
-disableThemeToggle = 'true'
+defaultTheme = 'light'
 UseHugoToc = 'true'
 ShowShareButtons = 'true'
 ShowBreadCrumbs = 'true'
@@ -25,24 +24,63 @@ ShowPostNavLinks = 'true'
 mainSections = ['articles', 'updates']
 assets.disableFingerprinting = true
 
-[[menu.main]]
-identifier = 'about'
-name = 'about'
-url = '/about/'
-weight = '10'
+[params.profileMode]
+enabled=true
+subtitle = "I am Raúl: Christian, linguistics lover, diplomacy professional, born in the Dominican Republic but citizen of the world. Welcome to my website!"
+imageUrl = 'raulforward1.jpeg'
+imageWidth = 120
+imageHeight = 120
 
-[[menu.main]]
+[[params.profileMode.buttons]]
+name = 'Updates'
+url = '/tags/updates/'
+
+[[params.profileMode.buttons]]
+name = 'Articles'
+url = "/articles/"
+
+[[params.profileMode.buttons]]
+name = 'Things I Use and Recommend'
+url = "/recommendations/"
+
+
+# [params.homeInfoParams]
+# Title = 'Hi there \U0001F44B'
+# Content = 'Welcome to my blog'
+
+
+#[[menu.main]]
+#identifier = 'about'
+#name = 'about'
+#url = '/about/'
+#weight = '10'
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+[languages.en.menu]
+
+[languages.es]
+languageName = "Español"
+weight = 2
+[languages.es.menu]
+
+[[languages.en.menu.main]]
 identifier = 'tags'
 name = 'tags'
 url = '/tags/'
-weight = '20'
+weight = '10'
 
-[[menu.main]]
-identifier = 'recommendations'
-name = 'recommendations'
-url = '/recommendations/'
-weight = '30'
+[[languages.es.menu.main]]
+identifier = 'etiquetas'
+name = 'etiquetas'
+url = '/tags/'
+weight = '10'
 
-[homeInfoParams]
-Title = "Hi there \U0001F44B"
-Content = "Welcome to my blog"
+
+#[[menu.main]]
+#identifier = 'recommendations'
+#name = 'recommendations'
+#url = '/recommendations/'
+#weight = '30'
