@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//www.raultaveras.online/es/categories/</loc>
+    <loc>//localhost:1313/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//www.raultaveras.online/categories/"
+                href="//localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//www.raultaveras.online/es/categories/"
+                href="//localhost:1313/es/categories/"
                 />
   </url><url>
-    <loc>//www.raultaveras.online/es/</loc>
+    <loc>//localhost:1313/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//www.raultaveras.online/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//www.raultaveras.online/es/"
+                href="//localhost:1313/es/"
                 />
   </url><url>
-    <loc>//www.raultaveras.online/es/tags/</loc>
+    <loc>//localhost:1313/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//www.raultaveras.online/tags/"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//www.raultaveras.online/es/tags/"
+                href="//localhost:1313/es/tags/"
                 />
   </url>
 </urlset>

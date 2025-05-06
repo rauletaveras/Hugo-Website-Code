@@ -4,7 +4,7 @@
 </header>
 <article class="h-entry">
     <h1 class="p-name">{{ .Title | title }}</h1>
-    <span class="small"><p>Published by <a style="text-decoration: none" class="p-author h-card" href="http://www.raultaveras.online/">{{ .Site.Author.name }}</a> on <time class="dt-published">{{ .Date | time.Format "2006-01-02 Mon" }}</time></p></span>
+    <span class="small"><p>Published by <a style="text-decoration: none" class="p-author h-card" href="http://www.raultaveras.online/">{{ .Params.author.name }}</a> on <time class="dt-published">{{ .Date | time.Format "2006-01-02 Mon" }}</time></p></span>
     <div class="e-content">
 	{{ .Content -}}
     </div>

@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>articles on Raúl E. Taveras&#39;s Website</title>
-    <link>//www.raultaveras.online/tags/articles/</link>
-    <description>Recent content in articles on Raúl E. Taveras&#39;s Website</description>
+    <title>Articles on Raúl E. Taveras&#39;s Website</title>
+    <link>//localhost:1313/tags/articles/</link>
+    <description>Recent content in Articles on Raúl E. Taveras&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</managingEditor>
-    <webMaster>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</webMaster>
     <copyright>© Raúl Ernesto Taveras Franco</copyright>
-    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//www.raultaveras.online/tags/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WhatsApp Channels: The evolution &amp; devolution of communication</title>
-      <link>//www.raultaveras.online/articles/20231030-ws-channels-rss/</link>
+      <link>//localhost:1313/articles/20231030-ws-channels-rss/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <author>raul@raultaveras.online (Raúl Ernesto Taveras Franco)</author>
-      <guid>//www.raultaveras.online/articles/20231030-ws-channels-rss/</guid>
-      <description>WhatsApp rolled out &amp;#34;channels&amp;#34; worldwide on September 13, 2023, following the popularity of a similar feature in Telegram introduced 7 years prior. Through channels, users can subscribe to one-sided chat feeds and receive updates from individuals or organizations directly to their devices. While some see this as a way to get us closer to the information we want, I argue channels make reliable information harder to find and verify, compromising transparency.</description>
+      
+      <guid>//localhost:1313/articles/20231030-ws-channels-rss/</guid>
+      <description>&lt;p&gt;
+WhatsApp rolled out &amp;#34;channels&amp;#34; worldwide &lt;a href=&#34;https://blog.whatsapp.com/whatsapp-channels-are-going-global&#34;&gt;on September 13, 2023&lt;/a&gt;, following the popularity of a similar feature in Telegram &lt;a href=&#34;https://telegram.org/blog/channels&#34;&gt;introduced 7 years prior&lt;/a&gt;.
+Through channels, users can subscribe to one-sided chat feeds and receive updates from individuals or organizations directly to their devices.
+While some see this as a way to get us closer to the information we want, I argue
+channels make reliable information harder to find and verify, compromising transparency.
+Additionally, I believe they are a merely a symptom of the declining quality of the internet
+and represent a redundant reinvention of technology available and perfectly functional for the past 25 years.&lt;/p&gt;</description>
       <content:encoded><![CDATA[
 <p>
 WhatsApp rolled out &#34;channels&#34; worldwide <a href="https://blog.whatsapp.com/whatsapp-channels-are-going-global">on September 13, 2023</a>, following the popularity of a similar feature in Telegram <a href="https://telegram.org/blog/channels">introduced 7 years prior</a>.
